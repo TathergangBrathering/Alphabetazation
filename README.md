@@ -9,3 +9,4 @@ List of inspirations:
 * https://www.youtube.com/watch?v=_9aLiv5M6AQ - Code together
 * https://www.youtube.com/watch?v=H4YRPdRXKFs - Write in C
 * https://www.youtube.com/watch?v=H9B4a2KEoGY - Der Programmierer
+* https://www.youtube.com/watch?v=50Qs4gVHB_E - Coding in the name of
