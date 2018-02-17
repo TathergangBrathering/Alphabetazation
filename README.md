@@ -19,3 +19,4 @@ List of inspirations:
 * https://www.youtube.com/watch?v=y6NSdGL8czw - 
 * https://www.youtube.com/watch?v=sxNmeMklFk8 - Still alive
 * https://www.youtube.com/watch?v=Snb_rkKpIFw - Re: your brains
+* https://www.youtube.com/watch?v=IUPu_ipbVB0 - IKEA
