@@ -17,3 +17,4 @@ List of inspirations:
 * https://www.youtube.com/watch?v=OPZeAi6YCMk - U&I - The HTML & CSS Love Song
 * https://www.youtube.com/watch?v=7gfBP8kPzRA - The bitcoin song (for da hype :) )
 * https://www.youtube.com/watch?v=y6NSdGL8czw - 
+* https://www.youtube.com/watch?v=sxNmeMklFk8 - Still alive
