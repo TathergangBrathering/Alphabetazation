@@ -1,0 +1,3 @@
+```
+No static, no cry
+```
