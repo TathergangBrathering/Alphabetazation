@@ -1,4 +1,7 @@
 ```
+F#m A Bm D C# (Gitalele)
+Am  C Dm F E  (Gitarre, 2nd capo)
+
 I'm just a regular PO, your average project leader
 The build was red, waited for green - triggered my fixing fever
 It's not what I'm used to do, just wanna go and try it out
