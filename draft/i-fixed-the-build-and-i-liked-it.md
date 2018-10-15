@@ -10,11 +10,18 @@ It's a curious thing to do stuck in my imagination
 I fixed a bug and I liked it
 Debugging mystery to solve
 I fixed a build and I liked it
-I hope my dev-ops won't mind it
+I hope my dev won't mind it
 
-The bug was so wrong, it felt so right
-Don't mean I'm dev-ops - just for tonight
-I fixed a bug and I liked it, I liked it
+The bug was wrong, it felt so right
+Don't mean I'm a hero tonight
+I fixed a build and I liked it, I liked it
+
+#TODO: write second verse
+#Der Build ist grün, aber keiner weiß warum
+#Niemand weiß Bescheid außer der stille Held und er fühlt sich geil
+#suchen absurde Begründungen: Mondphase, Venus, Schaltjahr, Krümmung des Raumzeitkontinuums, 42,
+
+
 
 
 --------------------------------------------------------------------
