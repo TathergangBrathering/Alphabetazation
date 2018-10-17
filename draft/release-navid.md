@@ -38,5 +38,8 @@ nicht so schlimm, was macht das schon
 hatten nix Dokumentation
 und KEINer wusste Bescheid
 
-//TODO: Ende rundmachen
+Release Kandidat (3x)
+Nennen wir
+
+es Version 1.0 
 ```
