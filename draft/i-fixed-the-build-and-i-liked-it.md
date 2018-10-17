@@ -17,10 +17,10 @@ Don't mean I'm a hero tonight
 I fixed a build and I liked it, I liked it
 
 They were confused the build is green
-They wonder who it could have been
+They wondered who could it have been
 I feel like a super hero with a secret identity
-I code at night keep up the fight
-Against all your crimes you commit to git
+I code at night to keep up the fight
+Against all your committed crimes
 
 #TODO: write second verse
 #Der Build ist grün, aber keiner weiß warum
