@@ -39,7 +39,5 @@ hatten nix Dokumentation
 und KEINer wusste Bescheid
 
 Release Kandidat (3x)
-Nennen wir
-
-es Version 1.0 
+Nix funktioniert wie soll, nennen wir es Version eins punkt null
 ```
