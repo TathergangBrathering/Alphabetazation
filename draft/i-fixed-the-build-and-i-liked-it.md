@@ -16,6 +16,12 @@ The bug was wrong, it felt so right
 Don't mean I'm a hero tonight
 I fixed a build and I liked it, I liked it
 
+They were confused the build is green
+They wonder who it could have been
+I feel like a super hero with a secret identity
+I code at night keep up the fight
+Against all your crimes you commit to git
+
 #TODO: write second verse
 #Der Build ist grün, aber keiner weiß warum
 #Niemand weiß Bescheid außer der stille Held und er fühlt sich geil
