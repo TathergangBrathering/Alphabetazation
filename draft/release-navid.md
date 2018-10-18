@@ -2,9 +2,9 @@
 Gitalele: A H E E (C#m)  
 Gitarre: C D G G (Em)   Capo2      
 
-Release Navidad
-Release Navidad
-Release Navidad
+Release Navidad (Release Candidate)
+Release Navidad (Release Candidate)
+Release Navidad (Release Candidate)
 Deployment am Freitag ist das was ich mag
 (Deployment erfolgreich - mit weniger Bugs)
 
