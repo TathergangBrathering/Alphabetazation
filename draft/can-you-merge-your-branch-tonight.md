@@ -1,11 +1,15 @@
 ```
 Can you merge your branch tonight
 
+F   C   | F   C   | F   C   | Dm  G   2x
+
 There's a calm surrender when you create your pull request
 When all coding is done and you just wait for tests
 A swearsome moment when you repeat again and again
-
 It's enough for the day when all your efforts are in vain
+
+C  G  Am F | C  G  F  G | Am Dm G C
+
 So can you compile your code tonight? You've come so far
 It's enough for this tired developer who was greater
 And can you merge your branch tonight? Close your ticket
