@@ -42,6 +42,11 @@ Dann ab zum Barrista!
   Banking with AHOI
   Commit push build deploy
   
+  Give AHOI a try
+  To be your banking A-P-I
+  Please raise your coffee cup
+  And praise tales from the hub
+  
 AHOI, eure RESTful Banking A-P-I  
 Schaut doch mal bei uns vorbei
 
