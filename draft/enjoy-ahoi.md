@@ -1,12 +1,11 @@
 ```
-
 Hi, ich bin Swen, 
 Entwickler bei AHOI
 Ich konzipiere Software
 implementiere und deploy'
 Für entspanntes Multibanking
 Mit RESTful A-P-I
-Schau' einfach mal bei uns vorbei!
+Schaut einfach mal bei uns vorbei!
 
   Banking with AHOI
   RESTful to enjoy
@@ -14,11 +13,11 @@ Schau' einfach mal bei uns vorbei!
   Commit push build deploy
   
 Du willst eine Finanz-App bauen
-Um auf Dein Konto zu schauen
+Um Deinen Kontostand an zu schauen
 Du fragst Dich monatlich
 Wieviel Geld noch übrig ist
 Deine Vergangenheit analysiert
-Und in die Zukunft projiziert
+Und in die Zukunft kalkuliert
 Frag die AHOI A-P-I
 Und schau bei uns vorbei
 
@@ -34,18 +33,23 @@ Und schau bei uns vorbei
 SDKs und Demo App
 Tutorials für'n Knowledge Gap
 Cookbook oder Webinar
-Was brauchst Du mehr? *tada*
 Das AHOI Team ist für euch da!
+- Ihr braucht noch mehr Kaffee? -
+Dann ab zum Barrista!
 
   Banking with AHOI
   RESTful to enjoy
   Banking with AHOI
   Commit push build deploy
   
-AHOI, eure RESTful Banking API  
+AHOI, eure RESTful Banking A-P-I  
 Schaut doch mal bei uns vorbei
 
 -------------------------------------------------------------
+
+Banking in the name of
+AHOI chronicles
+Tales from the hub
 
  - Wer bin ich und warum stehe ich hier? (Swen, Entwickler bei AHOI)
 - Was ist AHOI? (Multibanking API, RESTful Banking)
