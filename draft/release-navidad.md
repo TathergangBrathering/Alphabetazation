@@ -30,6 +30,13 @@ das Ticket ist zu und wir hauen jetzt ab
 Release ist am start (3x)
 der Product Owner heißt Uwe Fath
 
+---------- ZWISCHENSPIEL
+Matze: Alles klar ich geh dann jetzt nach Hause
+Swen: Ok, ich warte nur noch eben bis der Jenkins durchgelaufen ist.
+-- Progressbar --
+BUILD FAILED SOUND
+-----------
+
 Release abgefuckt (3x)
 wir rollen zurück und machens Montag
 
