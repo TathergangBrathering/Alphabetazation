@@ -3,10 +3,10 @@ Units tests (Jingle Bells)
 
 
 G G C D G D (Gitarre)
-G G C G D D
+G G C G D D (Strophe)
 
 D D G D A D (Gitalele)
-D D G D A A
+D D G D A A (Strophe)
 
 Unit tests, unit tests
 Unit test all day
