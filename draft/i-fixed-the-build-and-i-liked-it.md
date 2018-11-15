@@ -44,7 +44,15 @@ Our anti pattern can continue to be
   I fixed a bug and I liked it
   Debugging mystery to solve
   I fixed a build and I liked it
-  I hope my dev won't mind it
+  I hope my dev won't mind it 
+  
+  Refrain wiederholen
+  
+  
+  
+  
+  
+alt:
 
   The bug was wrong, it felt so right
   To squash it really tight
