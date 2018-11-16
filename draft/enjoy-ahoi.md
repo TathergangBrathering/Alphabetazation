@@ -5,7 +5,7 @@ Ich konzipiere Software
 implementiere und deploy'
 Für entspanntes Multibanking
 Mit RESTful A-P-I
-Schaut einfach mal bei uns vorbei!
+Schaut einfach mal in Slack vorbei!
 
   Banking with AHOI
   RESTful to enjoy
