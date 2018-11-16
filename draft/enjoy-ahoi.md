@@ -5,7 +5,7 @@ Ich konzipiere Software
 implementiere und deploy'
 Für entspanntes Multibanking
 Mit RESTful A-P-I
-Schaut einfach mal in Slack vorbei!
+Schaut doch mal bei uns vorbei!
 
   Banking with AHOI
   RESTful to enjoy
@@ -19,7 +19,7 @@ Wieviel Geld noch übrig ist
 Deine Vergangenheit analysiert
 Und in die Zukunft kalkuliert
 Frag die AHOI A-P-I
-Und schau bei uns vorbei
+Und schaut bei uns vorbei
 
   Banking with AHOI
   RESTful to enjoy
@@ -48,7 +48,7 @@ Dann ab zum Barrista!
   And praise tales from the hub
   
 AHOI, eure RESTful Banking A-P-I  
-Schaut doch mal bei uns vorbei
+Schaut einfach mal in Slack vorbei
 
 -------------------------------------------------------------
 
