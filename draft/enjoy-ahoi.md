@@ -43,7 +43,7 @@ Dann ab zum Barrista!
   Commit push build deploy
   
   Give AHOI a try
-  To be your banking A-P-I
+  To be your better banking A-P-I
   Please raise your coffee cup
   And praise tales from the hub
   
