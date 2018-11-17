@@ -1,41 +1,80 @@
 ```
+
 Hi, ich bin Swen, 
+   G
 Entwickler bei AHOI
+    C              D
 Ich konzipiere Software
+        G
 implementiere und deploy'
+       C             D
 Für entspanntes Multibanking
-Mit RESTful A-P-I
-Schaut doch mal bei uns vorbei!
+    G       D/F#    Em
+Mit RESTful A - P - I
+       C               D      G
+Schau' einfach mal bei uns vorbei!
 
+     D    G     C  3x
   Banking with AHOI
   RESTful to enjoy
   Banking with AHOI
+     Am       C        G
   Commit push build deploy
   
+   C           D
 Du willst eine Finanz-App bauen
+          G
 Um Deinen Kontostand an zu schauen
+   C                 D
 Du fragst Dich monatlich
+        G
 Wieviel Geld noch übrig ist
+      C             D
 Deine Vergangenheit analysiert
-Und in die Zukunft kalkuliert
+           G       D/F#   Em
+Und in die Zukunft kal-ku-liert
+         C
 Frag die AHOI A-P-I
-Und schaut bei uns vorbei
+    D
+Und schau' bei uns vorbei
 
+     D    G     C  3x
   Banking with AHOI
   RESTful to enjoy
   Banking with AHOI
   Commit push build deploy
   
-    Das alles und noch viel mehr
+	G                          C    Em
+       Das alles und noch viel mehr
+	          Am      C
     Würde ich machen 
+	                D       G
     Wenn ich App-Entwickler wär'
-    
-SDKs und Demo App
-Tutorials für'n Knowledge Gap
+    G                          C    Em
+        Das alles und noch viel mehr
+	          Am      C
+    Würde ich machen 
+	                D       G
+    Wenn ich App-Entwickler wär'
+	
+	C      D
+S-D-Ks und Demo App
+  G
+Tutorials für den Knowledge Gap
+           C             D
+Wir helfen euch gern bei Fragen
+   G
+In allen Lebenslagen
+C             D
 Cookbook oder Webinar
+    G             D/F#     Em
 Das AHOI Team ist für euch da!
-- Ihr braucht noch mehr Kaffee? -
-Dann ab zum Barrista!
+
+Also außer ihr habt jetzt ein Koffeindefizit 
+und braucht ganz dringend Kaffee
+- dann solltet ihr vielleicht doch lieber 
+zu jemandem gehen, der sich besser damit auskennt als wir
+So jemandem wie unsere Barista hinten an der Kaffeebar
 
   Banking with AHOI
   RESTful to enjoy
@@ -45,10 +84,12 @@ Dann ab zum Barrista!
   Give AHOI a try
   To be your better banking A-P-I
   Please raise your coffee cup
-  And praise tales from the hub
-  
-AHOI, eure RESTful Banking A-P-I  
-Schaut einfach mal in Slack vorbei
+  And sing praises the hub
+
+D/F#   Em        D       C   C/G  Am  G   D/F#
+      AHOI, Eure RESTful Ban-king A - P - I  
+	Em              D   C               G
+Für Fragen, Rat und Tat schaut in Slack vorbei
 
 -------------------------------------------------------------
 
