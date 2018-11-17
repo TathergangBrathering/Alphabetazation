@@ -8,19 +8,46 @@ G G C G D D (Strophe)
 D D G D A D (Gitalele)
 D D G D A A (Strophe)
 
-Unit tests, unit tests
-Unit test all day
-Oh what fun it is to write
-A unit test tonight
+  Unit tests, unit tests
+  Unit test all day
+  Oh what fun it is to write
+  A unit test tonight
 
 Exception in a call
 In REST service you know
 Delivering 500 codes
 To the customer seems false
+
 Hand-ling this right
 Catching it in time
 Oh what fun it is to right and write
 A unit test tonight
+
+  Unit tests, unit tests
+  Unit test all day
+  Oh what fun it is to write
+  A unit test tonight
+
+The test case is a mess
+Who would have ever guessed
+That test code should be readable
+And also be maintained
+
+You're swearing and you know
+If the author will ever show
+Up again with a question
+At your desk then you will throw
+
+Hard words in his face
+He better should embrace
+And learn how to write a test
+For your next best psycho path!
+
+  Unit tests, unit tests
+  Unit test all day
+  Oh what fun it is to write
+  A unit test tonight
+
 
 ----------------------------------------------
 
