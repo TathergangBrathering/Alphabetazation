@@ -6,57 +6,57 @@
 I Saw Mommy Kissing Santa Claus chords
 Tommy Connor 1952
 
-C                   Em 
+G                   Bm 
 I saw Mommy kissing Santa Claus,
-Am                            G
+Em                            D
 underneath the mistletoe last night.
-    F             G
+    C             D
 She didn t see me creep,
-         C         G/B    Am
+         G         D/F#   Em
 down the stairs to have a peep
-    D
+    A
 She thought that I was tucked up
-      G             
+      D             
 in my bedroom fast asleep.
 
-      C                  Em    
+      G                  Bm    
 Then, I saw Mommy tickle Santa Claus,
-Am                            F    
+Em                            C    
 underneath his beard so snowy white
-    F               G
+    C               D
 Oh, what a laugh it would have been,
-   C         G/B  Am
+   G         D/F# Em
 if Daddy had only seen
-F             G                C
+C             D                G
 Mommy kissing Santa Claus last night.
 
-[Solo]
-C Em Am G
-F G C G/B Am
-D G
+
+G Bm Em D
+C D G D/F# Em
+A      D             
 
 
-C                   Em 
+G                   Bm 
 I saw Mommy jocking Santa Claus,
-Am                            G
+Em                            D
 underneath the mistletoe last night.
-    F             G
+    C             D
 She didn t see me creep,
-         C         G/B    Am
+         G         D/F#   Em
 down the stairs to have a peep
-    D
+    A
 She thought that I was tucked up
-      G             
+      D             
 in my bedroom fast asleep.
 
-      C                  Em    
+      G                  Bm    
 Then, I saw Mommy tickle Santa Claus,
-Am                            F    
+Em                            C    
 underneath his beard so snowy white
-    F               G
+    C               D
 Oh, what a laugh it would have been,
-   C         G/B  Am
+   G         D/F# Em
 if Daddy had only seen
-F             G                C
+C             D                G
 Mommy kissing Santa Claus last night.
 ```
