@@ -7,14 +7,14 @@ The build was red, waited for green - triggered my fixing fever
 It's not what I'm used to do, just wanna go and try it out
 It's a curious thing to do stuck in my imagination
 
-  I fixed a bug and I liked it
-  Debugging mystery to solve
-  I fixed a build and I liked it
-  I hope my dev won't mind it
+  I fixed a bug and I liked it    (Matze)
+  Debugging mystery to solve      (Swen)
+  I fixed a build and I liked it  (Matze)
+  I hope my dev won't mind it     (Swen)
 
-  The bug was wrong, it felt so right
-  Don't mean I'm a hero tonight
-  I fixed a build and I liked it, I liked it
+  The bug was wrong, it felt so right (Matze / Swen)
+  Don't mean I'm a hero tonight       (Matze)
+  I fixed a build and I liked it, I liked it (Swen)
 
 They were confused the build is green
 They wondered who could it have been
