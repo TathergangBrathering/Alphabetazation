@@ -9,7 +9,7 @@ AAAA DDEE AAAA DEEA (Strophe)
   Unit tests, unit tests
   Unit test all day
   Oh what fun it is to write
-  A unit test tonight
+  A unit test today
 
 Exception in a call
 In REST service you know
@@ -19,12 +19,12 @@ To the customer seems false
 Hand-ling this right
 Catching it in time
 Oh what fun it is to right and write
-A unit test tonight
+A unit test today
 
   Unit tests, unit tests
   Unit test all day
   Oh what fun it is to write
-  A unit test tonight
+  A unit test today
 
 The test case is a mess
 Who would have ever guessed
@@ -44,7 +44,7 @@ For your next best psycho path!
   Unit tests, unit tests
   Unit test all day
   Oh what fun it is to write
-  A unit test tonight
+  A unit test today
 
 
 ----------------------------------------------
