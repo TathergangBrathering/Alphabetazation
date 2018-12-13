@@ -1,6 +1,6 @@
 ```
-Gitalele: A H E E (C#m)  
-Gitarre: C D G G (Em)   Capo2      
+Swen Gitalele: A H E E (C#m)  
+Matze Gitarre: C D G G (Em)   Capo2      
 
 Release Navidad
 Release Navidad
