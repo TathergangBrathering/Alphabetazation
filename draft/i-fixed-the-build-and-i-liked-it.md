@@ -1,6 +1,6 @@
 ```
-F#m A Bm D C# (Gitalele)
-Am  C Dm F E  (Gitarre, 2nd capo)
+Swen: F#m A Bm D C# (Gitalele)
+Matze: Am  C Dm F E  (Gitarre, 2nd capo)
 
 I'm just a regular PO, your average project leader
 The build was red, waited for green - triggered my fixing fever
