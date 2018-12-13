@@ -1,11 +1,3 @@
-```
-#-------------------------------PLEASE NOTE-------------------------------------#
-# This file is the author's own work and represents their interpretation of the #
-# song. You may only use this file for private study, scholarship, or research. #
-#-------------------------------------------------------------------------------#
-I Saw Mommy Kissing Santa Claus chords
-Tommy Connor 1952
-
 G                   Bm 
 I saw Mommy kissing Santa Claus,
 Em                            D
@@ -31,9 +23,7 @@ C             D                G
 Mommy kissing Santa Claus last night.
 
 
-G Bm Em D
-C D G D/F# Em
-A      D             
+G G G G    
 
 
 G                   Bm 
@@ -58,5 +48,5 @@ Oh, what a laugh it would have been,
    G         D/F# Em
 if Daddy had only seen
 C             D                G
-Mommy kissing Santa Claus last night.
+Mommy kissing Santa Claus last night. (3x beim letzten Mal)
 ```
