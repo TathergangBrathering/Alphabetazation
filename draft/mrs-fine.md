@@ -47,7 +47,7 @@ I thought of your tourette
 And the time it bought you
 To think about
 This state of sanity
-Your current relationship
+Your (current) relationship
 Or whatever this is about
 
 Am G F C|C/B
