@@ -82,6 +82,13 @@ Am F C G
   Do you have some time?
   Hey ~~~~~
   Do you wanna grab a coffee with me
+Am F C G
+  Hey Miss Fine
+  You're stuck in my mind
+  Dear Miss Fine
+  Do you have some time?
+  Hey ~~~~~
+  Do you wanna grab a coffee with me
   You've shown me your heart
   Now I'd like to show you mine
 ```
