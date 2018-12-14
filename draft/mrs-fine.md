@@ -23,8 +23,8 @@ Am G F C|C/B
 Then one night at a bar
 Not sure how we got this far
 You turn my joke on me
-I look into your eyes and see
-L O V E
+I look into your eyes and see love
+L-O-V-E
 
 F G C Am|G F G C
 Hey Miss Fine
