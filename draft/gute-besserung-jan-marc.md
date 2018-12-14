@@ -3,8 +3,8 @@ Neue Geschichten aus dem Hub
 
 Das Jahr ist um, tja, ciao das wars
 Vielen Dank wir hatten Spass
-Viel geschafft in PDs, AHOIs
-Nächstes Jahr wieder auf ein Neues
+Die Ideen der PDs sind Neu
+Wie auch Symbioticon mit AHOI
 
 Stellt den Glühweinkocher ab
 Das war's für dies Jahr aus dem Hub
@@ -13,13 +13,12 @@ Wir sehen uns dann, das ist doch klar
 
 Frohes Fest, Guten Rutsch bis nächstes Jahr
 
-
-Liebe Beiräte und Koordinatoren
-Ohne euch wären wir verloren
+Liebe Gäste des S-Hub
+Kommt bald wieder in den Pub 
 Ihr seid ein treues Publikum
 Und dem Livestream stets verbunden
 
-Kommt gut rüber, denn sonst geht's bergab
+Kommt gut rüber mit Sack und Pack
 Frohes Fest, Guten Rutsch und auf ein Neues
 Von eurem S-Hub
 
