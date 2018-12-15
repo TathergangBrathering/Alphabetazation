@@ -3,8 +3,8 @@ Neue Geschichten aus dem Hub
 
 Das Jahr ist um, tja, ciao das wars
 Vielen Dank wir hatten Spass
-Die Ideen der PDs sind Neu
-Wie auch Symbioticon mit AHOI
+In den P-Ds und mit AHOI
+Der Innovation Day war neu
 
 Stellt den Glühweinkocher ab
 Das war's für dies Jahr aus dem Hub
@@ -18,7 +18,26 @@ Kommt bald wieder in den Pub
 Ihr seid ein treues Publikum
 Und dem Livestream stets verbunden
 
-Kommt gut rüber mit Sack und Pack
+Liebe Teilnehmer der P-Ds
+Es ist schön euch hier zu sehen
+Engagiert und involviert
+Habt ihr Ideen generiert
+
+Was wär der Hub nur ohne euch
+Frohes Fest, Guten Rutsch und auf ein Neues
+Von eurem S-Hub
+
+P-S-D-zwei und Z-A-G
+Neverending story wird schon ok
+Mal wieder mit der Laterne gehen
+Prototypen und viele Ideen
+
+Innovation Day Teil zwei
+Wer ist bei der Symbioticon dabei?
+Zweitausend-neunzehn wird leider geil
+Wir sagen tschüss für unseren Teil
+
+Ihr seid das beste Publikum, Hut ab
 Frohes Fest, Guten Rutsch und auf ein Neues
 Von eurem S-Hub
 
