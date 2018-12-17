@@ -45,6 +45,11 @@ Nicht so schlimm, was macht das schon
 Natten nix Dokumentation
 und KEINer wusste Bescheid
 
+Wir haben doch keine neue Version
+Nicht so schlimm, was macht das schon
+Natten nix Dokumentation
+und KEINer wusste Bescheid
+
 Release Kandidat (2x)
 Wenn nix funktioniert wie es soll
 Dann nennen wir es Version eins punkt null
