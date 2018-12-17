@@ -1,4 +1,24 @@
 ```
+      G
+Gute Besserung Matthi-as
+           C               G
+Gib bald wieder richtig Gas
+ G  D Em              D         C
+Es ist echt richtig gemein, allein auf der Bühne zu sein
+                G
+Ich spiel hier ohne Dich und erzähl'
+           C                G
+Hörst Du nicht wie ich mich quäl'
+ G    D Em               D
+Kein Ersatz für Dich man
+       C                 G
+Werd' wieder fit und halt Dich ran
+ D         Em           D           C
+Komm bald wieder, denn sonst gehts bergab
+        Am      C       D      G  
+Schöne Grüße       aus deinem S-Hub
+
+
 Neue Geschichten aus dem Hub
 
 Das Jahr ist um, tja, ciao das wars
@@ -40,23 +60,4 @@ Wir sagen tschüss für unseren Teil
 Ihr seid das beste Publikum, Hut ab
 Frohes Fest, Guten Rutsch und auf ein Neues
 Von eurem S-Hub
-
-      G
-Gute Besserung Jan Marc
-           C               G
-komm bald wieder aus dem Quark
- G  D Em              D         C
-werde endlich wieder fit im Schritt
-                G
-Das Team plant ohne dich und failt
-           C                G
-Denn wir wissen nicht wies geht
- G    D Em               D
-Dein Ersatz ist ein Sitzssack
-       C                 G
-Kaum elan und kein Zack zack
- D         Em           D           C
-Komm bald wieder, denn sonst gehts bergab
-        Am      C       D      G  
-Schöne Grüße       aus deinem S-Hub
 ```
