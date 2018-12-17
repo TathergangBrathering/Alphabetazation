@@ -18,7 +18,7 @@ Kommt bald wieder in den Pub
 Ihr seid ein treues Publikum
 Und dem Livestream stets verbunden
 
-Liebe Teilnehmer der P-Ds
+Liebe Teilnehmerinnen der P-Ds
 Es ist schön euch hier zu sehen
 Engagiert und involviert
 Habt ihr Ideen generiert
