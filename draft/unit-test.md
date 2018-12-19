@@ -6,7 +6,7 @@ Swen Ukulele - E A B
 
 LAID BACK
 
-CCCC FCGG CCCC GCGC (Refrain)
+CCCC FCGG CCCC FCGC (Refrain)
 CCCC FFGG CCCC FGGC (Strophe)
 
   Unit tests, unit tests
