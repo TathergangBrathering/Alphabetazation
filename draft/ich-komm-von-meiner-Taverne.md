@@ -3,6 +3,25 @@
 Matze Gitalele
 Swen Gitarre 5th capo
 
+
+      G 
+Ich geh mit meiner Laterne
+      D               G
+Und meine Laterne mit mir
+      G
+Dort oben leuchten die Sterne
+      D
+Hier unten leuchten wir
+
+     D       G
+Mein Licht ist aus
+    D          G
+Wir gehen nach Haus
+   D                G
+Rabimmel rabammel rabumm
+
+
+
       G 
 Ich komm von meiner Taverne
       D                       G
