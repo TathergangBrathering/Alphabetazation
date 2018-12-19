@@ -24,8 +24,8 @@ Schöne Grüße       aus deinem S-Hub
 Zweitausend-achtzehn, ciao - das wars
         C                G
 Vielen Dank, wir hatten Spass
- G  D Em              D         
-Mit SAM, PDs und auch AHOI
+ G D Em              D         
+Mit PD SAM und AHOI
          C              G
 Der Innovation Day war neu
 
