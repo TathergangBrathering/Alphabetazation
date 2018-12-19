@@ -91,7 +91,7 @@ So jemandem wie unsere Barista hinten an der Kaffeebar
        D    G     C  3x
   Give AHOI a try
   To be your better banking A-P-I
-  Please raise your coffee cup
+  Please raise your glühwein cup
        Am       C        G
   And sing praises the hub
 
