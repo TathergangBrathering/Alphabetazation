@@ -40,10 +40,12 @@ Das war's für dies Jahr aus dem Hub
 Neue Geschichten nächstes Jahr
                C                  G
 Wir sehen uns dann, das ist doch klar
+
  G    D Em             D                C
 Frohes Fest, Guten Rutsch bis nächstes Jahr
 
-(Swen)
+
+(Matze)
      G
 Liebe Gäste des S-Hub
              C                G
@@ -53,7 +55,7 @@ Ihr seid ein treues Publikum
           C                  G
 Und dem Livestream stets verbunden
 
-(Matze)
+(Swen)
      G
 Liebe TeilnehmerInnen der P-Ds
           C                G
@@ -61,12 +63,12 @@ Es ist schön euch hier zu sehen
   G  D Em           D 
 Engagiert und involviert
             C       G
-Habt ihr Ideen generiert
- G    D     Em       D   C     
-Was wär der Hub nur ohne euch
-        Am                   
-Frohes Fest, Guten Rutsch und auf ein Neues
+Habt ihr Ideen generiert 
 
+     G  D   Em       D   C     
+Was wär der Hub nur ohne euch
+        Am                             C
+Frohes Fest, Guten Rutsch und auf ein Neues
      D      G
 Von eurem S-Hub
 
