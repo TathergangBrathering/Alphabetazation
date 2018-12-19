@@ -26,7 +26,7 @@ You turn my joke on me
 I look into your eyes and see love
 L-O-V-E
 
-F G C Am|G F G C
+F C G Am|G F C G
 Hey Miss Fine
 Doesn't your boyfriend mind?
 That you're confessing your heart
@@ -40,7 +40,7 @@ Am F C G
   You've shown me yours
   I'd like to show you mine
 
-F G C Am|G F G C
+F C G Am|G F C G
 You suck on your cigarette
 Dragging the moment out
 I thought of your tourette
@@ -69,7 +69,7 @@ Am F C G
   But fuck you Miss Fine
   I like you but I don't like your style
 
-F G C Am|G F G C
+F C G Am|G F C G
 My last try is this song
 In the hopes that you got me wrong
 Or am I just too late
