@@ -1,7 +1,10 @@
 ```
 Units tests (Jingle Bells)
 
-Gitalele + Ukulele - Laid back
+Matze Gitalele 
+Swen Ukulele - E A B
+
+LAID BACK
 
 CCCC FCGG CCCC GCGC (Refrain)
 CCCC FFGG CCCC FGGC (Strophe)
