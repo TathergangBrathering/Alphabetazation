@@ -85,7 +85,7 @@ Prototypen und viele Ideen
      G
 Innovation Day Teil zwei
              C                G
-Wer ist bei der Symbioticon dabei?
+Bei Symbioticon dabei?
  G  D Em              D  
 Zweitausend-neunzehn wird leider geil
            C                   G
