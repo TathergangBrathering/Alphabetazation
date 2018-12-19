@@ -72,7 +72,7 @@ Frohes Fest, Guten Rutsch und auf ein Neues
      D      G
 Von eurem S-Hub
 
-
+(beide)
      G
 P-S-D-zwei und Z-A-G
              C                G
