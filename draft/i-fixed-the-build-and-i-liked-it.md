@@ -20,10 +20,8 @@ It's a curious thing to do stuck in my imagination
 (Swen)
 They were confused the build is green
 They wondered who could it have been
-a] They scanned every alert inside the logs
-a] But it seems like an inside job
-b] So much is wrong in the way they write
-b] Their code is loose and mine is tight
+They scanned every alert inside the logs
+But it seems like an inside job
 I feel like a super hero with a secret identity
 I code at night to keep up the fight
 Against all your committed crimes
