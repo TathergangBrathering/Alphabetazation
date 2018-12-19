@@ -3,8 +3,8 @@ Units tests (Jingle Bells)
 
 Gitalele + Ukulele - Laid back
 
-AAAA DAEE AAAA DAEA (Refrain)
-AAAA DDEE AAAA DEEA (Strophe)
+CCCC FCGG CCCC GCGC (Refrain)
+CCCC FFGG CCCC FGGC (Strophe)
 
   Unit tests, unit tests
   Unit test all day
