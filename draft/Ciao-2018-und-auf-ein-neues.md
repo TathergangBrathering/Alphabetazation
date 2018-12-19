@@ -20,6 +20,7 @@ Schöne Grüße       aus deinem S-Hub
 
 --->
 
+(Swen, langsam)
      G
 Zweitausend-achtzehn, ciao - das wars
         C                G
@@ -29,6 +30,8 @@ Mit PD SAM und AHOI
          C              G
 Der Innovation Day war neu
 
+
+(Matze, langsam)
             G 
 Stellt den Glühweinkocher ab
                C                G
@@ -40,6 +43,7 @@ Wir sehen uns dann, das ist doch klar
  G    D Em             D                C
 Frohes Fest, Guten Rutsch bis nächstes Jahr
 
+(Swen)
      G
 Liebe Gäste des S-Hub
              C                G
@@ -49,6 +53,7 @@ Ihr seid ein treues Publikum
           C                  G
 Und dem Livestream stets verbunden
 
+(Matze)
      G
 Liebe TeilnehmerInnen der P-Ds
           C                G
