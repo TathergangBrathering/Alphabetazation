@@ -99,7 +99,7 @@ So jemandem wie unsere Barista hinten an der Kaffeebar
 D/F#   Em        D       C   C/G  Am  G   D/F#
       AHOI, Eure RESTful Ban-king A - P - I  
 	Em              D   C               G
-Für Fragen, Rat und Tat schaut in Slack vorbei
+Für Fragen, Rat und Tat schaut in GitHub vorbei
 
 
 
