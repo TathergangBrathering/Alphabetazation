@@ -46,6 +46,7 @@ Und schau' bei uns vorbei
   Banking with AHOI
   RESTful to enjoy
   Banking with AHOI
+       Am       C        G
   Commit push build deploy
   
 	G                          C    Em
@@ -80,20 +81,30 @@ und braucht ganz dringend Kaffee
 zu jemandem gehen, der sich besser damit auskennt als wir
 So jemandem wie unsere Barista hinten an der Kaffeebar
 
+     D    G     C  3x
   Banking with AHOI
   RESTful to enjoy
   Banking with AHOI
+       Am       C        G
   Commit push build deploy
   
+       D    G     C  3x
   Give AHOI a try
   To be your better banking A-P-I
   Please raise your coffee cup
+       Am       C        G
   And sing praises the hub
+
 
 D/F#   Em        D       C   C/G  Am  G   D/F#
       AHOI, Eure RESTful Ban-king A - P - I  
 	Em              D   C               G
 Für Fragen, Rat und Tat schaut in Slack vorbei
+
+
+
+
+
 
 -------------------------------------------------------------
 
