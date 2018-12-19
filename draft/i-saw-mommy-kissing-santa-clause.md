@@ -50,5 +50,9 @@ Oh, what a laugh it would have been,
    G         D/F# Em
 if Daddy had only seen
 C             D                G
-Mommy kissing Santa Claus last night. (3x beim letzten Mal)
+Mommy kissing Santa Claus last night. (3x beim allerletzten Mal)
+
+Kazoo Interlude
+
+
 ```
