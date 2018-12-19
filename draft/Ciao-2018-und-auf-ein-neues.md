@@ -1,7 +1,7 @@
 ```
 Zweitausend-achtzehn, tja, ciao - das wars
 Vielen Dank, wir hatten Spass
-In P-Ds, mit SAM und AHOI
+Mit SAM, PDs und auch AHOI
 Der Innovation Day war neu
 
 Stellt den Glühweinkocher ab
