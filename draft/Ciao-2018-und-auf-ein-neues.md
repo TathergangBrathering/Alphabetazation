@@ -94,6 +94,10 @@ Wir sagen tschüss für unseren Teil
 
      G  D   Em       D   C 
 Was wär der Hub nur ohne euch
+            Em       D   C 
+Was wär der Hub nur ohne euch
+            Em       D   C 
+Was wär der Hub nur ohne euch
         Am                              C
 Frohes Fest, Guten Rutsch und auf ein Neues
      D      Em   D   C         D    G
