@@ -72,7 +72,7 @@ Frohes Fest, Guten Rutsch und auf ein Neues
      D      G
 Von eurem S-Hub
 
-(beide)
+(Matze)
      G
 P-S-D-zwei und Z-A-G
              C                G
@@ -82,6 +82,7 @@ Mal wieder mit der Laterne gehen
       C               G
 Prototypen und viele Ideen
 
+(Swen)
      G
 Innovation Day Teil zwei
              C                G
@@ -91,8 +92,8 @@ Zweitausend-neunzehn wird leider geil
            C                   G
 Wir sagen tschüss für unseren Teil
 
-          D   Em         D       C
-Ihr seid das beste Publikum, Hut ab
+     G  D   Em       D   C 
+Was wär der Hub nur ohne euch
         Am                              C
 Frohes Fest, Guten Rutsch und auf ein Neues
      D      Em   D   C         D    G
