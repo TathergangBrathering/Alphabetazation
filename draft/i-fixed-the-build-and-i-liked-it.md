@@ -2,6 +2,7 @@
 Swen: F#m A Bm D C# (Gitalele)
 Matze: Am  C Dm F E  (Gitarre, 2nd capo)
 
+(Matze)
 I'm just a regular PO, your average project leader
 The build was red, waited for green - triggered my fixing fever
 It's not what I'm used to do, just wanna go and try it out
@@ -16,6 +17,7 @@ It's a curious thing to do stuck in my imagination
   Don't mean I'm a hero tonight       (Matze)
   I fixed a build and I liked it, I liked it (Swen)
 
+(Swen)
 They were confused the build is green
 They wondered who could it have been
 a] They scanned every alert inside the logs
