@@ -84,7 +84,7 @@ Zweitausend-neunzehn wird leider geil
            C                   G
 Wir sagen tschüss für unseren Teil
 
-              G          D      Em .    D
+          D   Em         D       C
 Ihr seid das beste Publikum, Hut ab
         Am                              C
 Frohes Fest, Guten Rutsch und auf ein Neues
