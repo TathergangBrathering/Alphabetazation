@@ -41,7 +41,7 @@ At your desk then you will throw
 
 Hard words in his face
 He better should embrace
-And learn how to write a test
+And learn how to wri-hite a test
 For your next best psycho path!
 
   Unit tests, unit tests
