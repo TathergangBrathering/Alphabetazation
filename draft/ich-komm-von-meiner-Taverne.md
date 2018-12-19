@@ -51,7 +51,25 @@ Die Laterne gehört gar nicht mir
      D       G
 Mein Licht ist aus
     D          G
-Wir gehen nach Haus
+Bernd schmeißt mich raus
    D                G
 Rabimmel rabammel rabumm
+
+
+      G 
+Ich komm von meiner Taverne
+      D                       G
+Dort tranken wir vorhin zehn Bier
+      G
+Dort oben leuchten die Sterne 
+      D
+Hier unten wanken wir 
+
+     D       G
+Mein Bier ist leer 
+    D          G
+Ich kann nicht mehr
+   D                G
+Rabimmel rabammel rabumm
+
 ```
