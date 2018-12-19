@@ -51,7 +51,8 @@ Die Laterne gehört gar nicht mir
      D       G
 Mein Licht ist aus
     D          G
-Bernd schmeißt mich raus
+Wir gehen nach Haus
+(Bernd schmeißt mich raus)
    D                G
 Rabimmel rabammel rabumm
 
@@ -71,5 +72,14 @@ Mein Bier ist leer
 Ich kann nicht mehr
    D                G
 Rabimmel rabammel rabumm
+
+
+
+
+Ich nahm sie mit aus der Ferne
+
+Ich mag die Laterne sehr gern
+
+
 
 ```
