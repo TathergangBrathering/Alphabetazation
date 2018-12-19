@@ -1,5 +1,5 @@
 ```
-Zweitausend-achtzehn, tja, ciao - das wars
+Zweitausend-achtzehn, ciao - das wars
 Vielen Dank, wir hatten Spass
 Mit SAM, PDs und auch AHOI
 Der Innovation Day war neu
