@@ -20,6 +20,9 @@ Schöne Grüße       aus deinem S-Hub
 
 --->
 
+Swen Gitarre capo 5th
+Matze Gitalele
+
 (Swen, langsam)
      G
 Zweitausend-achtzehn, ciao - das wars
