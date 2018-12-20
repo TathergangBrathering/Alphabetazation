@@ -4,6 +4,7 @@ Swen Gitarre 5th capo
 
 LAID BACK!
 
+(Matze)
 G                   Bm 
 I saw Mommy kissing Santa Claus,
 Em                            D
@@ -17,6 +18,7 @@ She thought that I was tucked up
       D             
 in my bedroom fast asleep.
 
+(Swen)
       G                  Bm    
 Then, I saw Mommy tickle Santa Claus,
 Em                            C    
