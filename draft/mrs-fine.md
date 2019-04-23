@@ -40,6 +40,8 @@ Am F C G
   You're stuck in my mind
   Dear Miss Fine
   Do you have some time?
+  Hey Sunny
+  Do you wanna grab a coffee with me
   You've shown me yours
   I'd like to show you mine
 
@@ -70,27 +72,26 @@ Am F C G
   Fuck you Miss Fine
   Nice that you made up your mind
   But fuck you Miss Fine
-  I like you but I don't like your style
+  See I like you but I don't like your style
 
 F C G Am|G F C G
-My last try is this song
+My last try was this song
 In the hopes that you got me wrong
-Or am I just too late
-To ask you out on a date?
+Or was I just too late...
 
 Am F C G
   Hey Miss Fine
   You're stuck in my mind
   Dear Miss Fine
   Do you have some time?
-  Hey ~~~~~
+  Hey Sunny
   Do you wanna grab a coffee with me
 Am F C G
   Hey Miss Fine
   You're stuck in my mind
   Dear Miss Fine
   Do you have some time?
-  Hey ~~~~~
+  Hey Sunny
   Do you wanna grab a coffee with me
   You've shown me your heart
   Now I'd like to show you mine
