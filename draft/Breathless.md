@@ -1,3 +1,4 @@
+```
 C
 We're gonna wander the streets and clubs of this town,
 Am                                    G   C
@@ -75,3 +76,4 @@ And your look showed me this is our time.
   We're inseparable, somehow immortal.
   G                        Am
   Come take my hand and go with me
+```
