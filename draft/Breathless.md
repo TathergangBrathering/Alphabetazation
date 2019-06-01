@@ -1,79 +1,103 @@
 ```
 C
 We're gonna wander the streets and clubs of this town,
-Am                                    G   C
-This is our night, made for us, oho, oho, oho.
+Am                                          G   C
+This is our night, made for the two of us, oho, oho.
 C
 I close my eyes, erase all taboos.
 Am                                       G   C
 Kisses on the skin, like a love tattoo, oho, oho.
 
                  F        C                   G   Am
-Whatever that is between us, pictures you never forget
+Whatever this is between us, pictures you'll never forget
                    F     C                     G
 And your look showed me this is our time.
 
   F                 C
-  Breathless through the night,
+  Out of breath through the night,
           G         Am
-  Until a new day awakens
+  Until a new dawn arrives
   F                 C
   Breathlessly just out
           G         Am
-  Your eyes take me off!
+  Your eyes undress 'n' eat me out!
   F                 C
-  Breathless through the night
+  Out of breath through the night
           G         Am
-  Feel what love does to us   
+  Feel the love to us applied
   F                 C  
-  Breathless, free from vertigo, 
+  Out of breath, no vertigo, 
           G         Am
   great cinema for us two
+  
   F                    C
-  We are eternal today, a thousand feelings of happiness
+  We're eternal in this moment, abundant blissful feelings
   G                        Am
   All I am, I share with you
   F                    C
-  We're inseparable, somehow immortal.
+  Inseparable and probably immortal.
   G                        Am
-  Come take my hand and go with me
+  Go take my hand and come with me
 
 C
-Let's go up to the highest roof in the world.
-Am                                           G   C
-Just hold on to what's holding us together, oho, oho
+Let's climb up to the highest roof top in the world.
+Am                                    G   C
+Just hold on to bond, oho, oho
 C
-Are you really addicted, skin to skin all intoxicated,
+You really are addicted, skin to skin inebriated
 Am                                          G   C
-Fall into my arms and the parachute opens, oho, oho.
+Fall into my arms and just relax, oho, oho.
 
                  F        C                   G   Am
-Whatever that is between us, pictures you never forget
+All I want is here, great pure freedom, close at hand
                    F     C                     G
-And your look showed me this is our time.
+No, we don't want to leave where everything's perfection
 
   F                 C
-  Breathless through the night,
+  Out of breath through the night,
           G         Am
-  Until a new day awakens
+  Until a new dawn arrives
   F                 C
   Breathlessly just out
           G         Am
-  Your eyes take me off!
+  Your eyes undress 'n' eat me out!
   F                 C
-  Breathless through the night
+  Out of breath through the night
           G         Am
-  Feel what love does to us   
+  Feel the love to us applied
   F                 C  
-  Breathless, free from vertigo, 
+  Out of breath, no vertigo, 
           G         Am
   great cinema for us two
+  
   F                    C
-  We are eternal today, a thousand feelings of happiness
+  We're eternal in this moment, abundant blissful feelings
   G                        Am
   All I am, I share with you
   F                    C
-  We're inseparable, somehow immortal.
+  Inseparable and probably immortal.
   G                        Am
-  Come take my hand and go with me
+  Go take my hand and come with me
+
+  F                 C
+  Breathlessly
+          G         Am
+  Lust resonates on my skin
+  F                 C
+  Out of breath through the night
+          G         Am
+  Feel the love to us applied
+  F                 C  
+  Out of breath, no vertigo, 
+          G         Am
+  great cinema for us two
+  
+  F                    C
+  We're eternal in this moment, abundant blissful feelings
+  G                        Am
+  All I am, I share with you
+  F                    C
+  Inseparable and probably immortal.
+  G                        Am
+  Go take my hand and come with me
 ```
