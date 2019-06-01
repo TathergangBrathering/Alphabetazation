@@ -31,7 +31,7 @@ And your look showed me this is our time.
   great cinema for us two
   
   F                    C
-  We're eternal today, with a thousand blissful feelings
+  We're eternal in this moment, abundant blissful feelings
   G                        Am
   All I am, I share with you
   F                    C
@@ -42,11 +42,11 @@ And your look showed me this is our time.
 C
 Let's climb up to the highest roof top in the world.
 Am                                    G   C
-Just hold on to our glue, our bond, oho, oho
+Just hold on to bond, oho, oho
 C
 You really are addicted, skin to skin inebriated
 Am                                          G   C
-Fall into my arms and your parachute opens, oho, oho.
+Fall into my arms and just relax, oho, oho.
 
                  F        C                   G   Am
 All I want is here, great pure freedom, close at hand
@@ -71,13 +71,13 @@ No, we don't want to leave where everything's perfection
   great cinema for us two
   
   F                    C
-  We're eternal today, with a thousand blissful feelings
+  We're eternal in this moment, abundant blissful feelings
   G                        Am
   All I am, I share with you
   F                    C
   Inseparable and probably immortal.
   G                        Am
-  Come take my hand and walk with me
+  Go take my hand and come with me
 
   F                 C
   Breathlessly
@@ -93,7 +93,7 @@ No, we don't want to leave where everything's perfection
   great cinema for us two
   
   F                    C
-  We're eternal today, with a thousand blissful feelings
+  We're eternal in this moment, abundant blissful feelings
   G                        Am
   All I am, I share with you
   F                    C
