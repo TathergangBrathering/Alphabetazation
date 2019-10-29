@@ -24,29 +24,29 @@ I'm used to my own style
 But the person who wrote this back a while
 Had no clue at all
 
-Oh how would it be if the author to me for example
+Oh how would it be if the author took me as example
 Names like documentary with a short comprehensive style
-I'm touting my own horn
-Wish I could do it on my own - again...
+I'm tooting my own horn
+Wish I could do it all again on my own...
 
   Too much code will kill you
   If you can't make sense at all
   Torn between rewriting and ignoring it total
   You're headed for disaster
   'Cause you never read the lines
-  Too much code will kill you - in the end
+  Too much code will kill you - every time
 
 Now I'm running git blame for me to see
-Who was this lunatic committing this attrocity
+The lunatic committing this attrocity
 I can't trust my own eyes
 But the commit never lies
-It was meeeeeee
+All along it was meeeeeee
 
   Too much code will kill you
-  If you can't make sense at all
-  Torn between rewriting and ignoring it total
-  You're headed for disaster
-  'Cause you never read the lines
+  If you don't rewrite at all
+  Refactoring and reading the Clean Code manual
+  Once copy paste disaster 
+  of spaghetti code foo bar
   Too much code will kill you - in the end
 
 -----------------------------------------------
