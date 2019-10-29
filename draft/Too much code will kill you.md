@@ -1,48 +1,61 @@
 ```
-Too much code will kill you
+I see just pieces of the code I need to read
+Too many littered lines are bloating on my screen
+No structure left to see
+Copy wasteland code to me
+Line four thousand nine
+
+I feel like no one ever told the truth to me
+Software development and what a struggle it would be
+Reading someone elses lines
+With no clue in my mind
+What's going on
+
+  Too much code will kill you
+  If you can't make sense at all
+  Torn between rewriting and scrapping it formal
+  You're headed for disaster
+  'Cause you never read the lines
+  Too much code will kill you - everytime
+
+Still in the same function that I used to call
+No return if else or submethod at all
+I'm used to my own style
+But the person who wrote this back a while
+Had no clue at all
+
+Oh how would it be if the author to me for example
+Names like documentary with a short comprehensive style
+I'm touting my own horn
+Wish I could do it on my own - again...
+
+  Too much code will kill you
+  If you can't make sense at all
+  Torn between rewriting and ignoring it total
+  You're headed for disaster
+  'Cause you never read the lines
+  Too much code will kill you - in the end
+
+Now I'm running git blame for me to see
+Who was this lunatic committing this attrocity
+I can't trust my own eyes
+But the commit never lies
+It was meeeeeee
+
+  Too much code will kill you
+  If you can't make sense at all
+  Torn between rewriting and ignoring it total
+  You're headed for disaster
+  'Cause you never read the lines
+  Too much code will kill you - in the end
 
 -----------------------------------------------
 
-I'm just the pieces of the man I used to be
-Too many bitter tears are raining down on me
-I'm far away from home
-And I've been facing this alone
-For much too long
-Oh, I feel like no-one ever told the truth to me
-About growing up and what a struggle it would be
-In my tangled state of mind
-I've been looking back to find
-Where I went wrong
-Too much love will kill you
-If you can't make up your mind
-Torn between the lover
-And the love you leave behind
-You're headed for disaster
-'Cause you never read the signs
-Too much love will kill you - every time
-I'm just the shadow of the man I used to be
-And it seems like there's no way out of this for me
-I used to bring you sunshine
-Now all I ever do is bring you down
-Oh, how would it be if you were standing in my shoes
-Can't you see that it's impossible to choose
-No there's no making sense of it
-Every way I go I'm bound to lose
-Oh yes
-Too much love will kill you
-Just as sure as none at all
-It'll drain the power that's in you
-Make you plead and scream and crawl
-And the pain will make you crazy
-You're the victim of your crime
-Too much love will kill you every time
-Yes, too much love will kill you
-It'll make your life a lie
-Yes, too much love will kill you
-And you won't understand why
-You'd give your life, you'd sell your soul
-But here it comes again
-Too much love will kill you
-In the end
-In the end
+Copy waste land
+Copy paste
+Spaghetti code
+Lines of code
+Screen size
+Redundancy
+
 ```
