@@ -10,14 +10,6 @@ Speaking words of wisdom:
   LOGO's dead and buried,
   Write in C. 
 
-
-Another bug bites the dust
-
-  Are you happy, are you satisfied?
-  How long can you stand the heat?
-  Out of the doorway the bullets rip
-  To the sound of the beat
-
 Every bug you make
 Every change you break
 Every build you take
@@ -41,11 +33,11 @@ And the failed builds that may be
 
 I start this lonely job on the boulevard of broken builds
 Console logs home to me
-And I'm the only dev-ops
+I'm lonely dev-ops
 I code alone, I code alone
 I code alone, I code a-
 
-  My build slave the only one that talks to me
+  My build slave the only one that messages me
   My shell console the only thing that's blinking
   Sometimes I wish someone out there would hack me
   Till then I code alone...
@@ -66,8 +58,12 @@ I code alone, I code a-
 Said I remember when we used to code
 Without patterns or clue
 
-In the nexus the mighty nexus
-The snapshot sleeps tonight
-In the nexus the mighty nexus
-The nexus build will replace it right
+
+Another bug bites the dust
+
+  Are you happy, are you satisfied?
+  How long can you stand the heat?
+  Out of the doorway the bullets rip
+  To the sound of the beat
+
 ```
