@@ -20,17 +20,17 @@ I'll be watching
 
   [F C D G]
   Oh can't you see
-  You ruin every PC
+  You ruin everything
   My poor build breaks
   With every change you make
 
-[G Am] 4x
+[Am G] 4x
 Let's talk about tests, baby
 Let's talk about unit-tests and me (sing it, sing it)
 Let's talk about all the good things
 And the failed builds that may be
 
-  [G] 4x
+  [Am] 4x
   Let's talk about tests (come on)
   Let's talk about tests (do it)
   Let's talk about tests (uh-huh)
@@ -45,7 +45,7 @@ I code alone, I code a-
 
   [F C G Am | F C G Am | F C G Am | F C E]
   My build slave the only one that messages me
-  My shell console the only thing that's blinking with me
+  My shell console the only thing that's blinking at me
   Sometimes I wish someone out there would hack me
   Till then I code alone...
   
