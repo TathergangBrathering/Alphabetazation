@@ -8,12 +8,12 @@ Line four thousand nine
 I feel like no one ever told the truth to me
 Software development and what a struggle it would be
 Reading someone elses lines
-With no clue in my mind
-What's going on
+He had no clue in his mind
+Of what's going on
 
   Too much code will kill you
   If you can't make sense at all
-  Torn between rewriting and scrapping it formal
+  Torn between rewriting and scrapping it at all
   You're headed for disaster
   'Cause you never read the lines
   Too much code will kill you - everytime
@@ -21,17 +21,17 @@ What's going on
 Still in the same function that I used to call
 No return if else or submethod at all
 I'm used to my own style
-But the person who wrote this back a while
+But who wrote this back a while
 Had no clue at all
 
-Oh how would it be if the author took me as example
-Names like documentary with a short comprehensive style
+Oh how would it be if the author took my example
+Names like documentary in a short compre-hensive style
 I'm tooting my own horn
-Wish I could do it all again on my own...
+Wish I could do it all on my own...
 
   Too much code will kill you
   If you can't make sense at all
-  Torn between rewriting and ignoring it total
+  Torn between rewriting and ignoring it at all
   I'm headed for disaster
   'Cause I never read the lines
   Too much code will kill you - every time
@@ -40,7 +40,7 @@ Now I'm running git blame for me to see
 The lunatic committing this attrocity
 I can't trust my own eyes
 But the commit never lies
-All along it was meeeeeee
+It was meeeeeee
 
   Too much code will kill you
   If you don't rewrite at all
