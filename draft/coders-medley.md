@@ -49,11 +49,11 @@ I code alone, I code a-
   Sometimes I wish someone out there would hack me
   Till then I code alone...
   
-  [C G Am G F C D G]
+  [C G Am C F C D G]
   Where do broken builds go?
-  Can they fix their own
-  Fix the build break
-  Of the committer that made them crash down
+  Are they always lost
+  Teaching us nothing
+  Of the faults that broke them down
   
   [C G Am F | C F C G]
   No code smells no cry
