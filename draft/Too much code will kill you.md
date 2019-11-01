@@ -32,8 +32,8 @@ Wish I could do it all again on my own...
   Too much code will kill you
   If you can't make sense at all
   Torn between rewriting and ignoring it total
-  You're headed for disaster
-  'Cause you never read the lines
+  I'm headed for disaster
+  'Cause I never read the lines
   Too much code will kill you - every time
 
 Now I'm running git blame for me to see
@@ -46,7 +46,7 @@ All along it was meeeeeee
   If you don't rewrite at all
   Refactoring and reading the Clean Code manual
   Once copy paste disaster 
-  of spaghetti code foo bar
+  of spaghetti code my friend
   Too much code will kill you - in the end
 
 -----------------------------------------------
