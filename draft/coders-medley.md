@@ -1,4 +1,24 @@
 ```
+  [C G Am F | C F C G]
+  No code smells no cry
+  No code smells no cry
+  
+[C G Am F]
+Said I remember when we used to code
+Without patterns or clue
+Back when Uncle Bob wrote
+The Clean Code manual
+Of which he shared with us
+
+[C G Am F]
+Grandma Beck said
+If it smells then change it
+Either diaper or code
+
+  [C G Am F | C F C G]
+  No code smells no cry
+  No code smells no cry
+
 [C G Am F | C G F-C-G-C]
 When I find my code in tons of trouble,
 Friends and colleagues come to me,
@@ -54,25 +74,4 @@ I code alone, I code a-
   Are they always lost
   Teaching us nothing
   Of the faults that broke them down
-  
-  [C G Am F | C F C G]
-  No code smells no cry
-  No code smells no cry
-  
-[C G Am F]
-Said I remember when we used to code
-Without patterns or clue
-Back when Uncle Bob wrote
-The Clean Code manual
-Of which he shared with us
-
-[C G Am F]
-Grandma Beck said
-If it smells then change it
-Either diaper or code
-
-  [C G Am F | C F C G]
-  No code smells no cry
-  No code smells no cry
-
 ```
