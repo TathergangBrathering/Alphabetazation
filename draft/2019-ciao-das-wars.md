@@ -8,9 +8,9 @@ Zweitausend-neunzehn, ciao - das wars
         C                G
 Vielen Dank, wir hatten Spass
  G D Em              D         
-Einach Spenden und AHOI
+Team 42 und AHOI
          C              G
-Golddigger, Trailblazer und 42 Teams sind neu
+Trailblazer und Golddigger sind neu
 
 
 (Matze, langsam)
@@ -66,11 +66,11 @@ Prototypen und viele Ideen
 
 (Swen)
      G
-Innovation Day Teil zwei
+Innovation Day Teil drei
              C                G
 Bei Symbioticon dabei?
  G  D Em              D  
-Zweitausend-neunzehn wird leider geil
+Zweitausend-zwanzig wird leider geil
            C                   G
 Wir sagen tschüss für unseren Teil
 
