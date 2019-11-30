@@ -28,7 +28,7 @@ Release abgehakt (3x)
 das Ticket ist zu und wir hauen jetzt ab
 
 Release ist am start (3x)
-der Product Owner heißt Uwe Fath
+Unser Product Owner ist unbekannt
 
   ---------- ZWISCHENSPIEL
   Matze: Alles klar ich geh dann jetzt nach Hause
