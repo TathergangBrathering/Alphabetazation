@@ -41,11 +41,11 @@ And your look showed me this is our time.
 
 C
 Let's climb up to the highest roof top in the world.
-Am                                    G   C
-Just hold on to bond, oho, oho
+Am                         G   C
+Just hold on to our bond, oho, oho
 C
 You really are addicted, skin to skin inebriated
-Am                                          G   C
+Am                                 G   C
 Fall into my arms and just relax, oho, oho.
 
                  F        C                   G   Am
